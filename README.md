@@ -95,5 +95,5 @@ This project builds on **beginner financial market analysis** and prepares for *
 
 ---
 
-**Author**: \Aayush Raj Giri
+**Author**: Aayush Raj Giri
 **Date**: 24 August 2025
